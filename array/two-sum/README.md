@@ -7,7 +7,7 @@ https://leetcode.com/problems/two-sum/
 Easy
 
 ## Topics
-Array
+Array, Hash Table
 
 ## Approach
 _Pending analysis._
