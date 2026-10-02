@@ -1,1 +1,1 @@
-class Solution { // v2 }
+class Solution {}
