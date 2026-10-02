@@ -10,27 +10,26 @@ Easy
 Array, Hash Table
 
 ## Approach
-Single pass with a hash map of seen values.
+_Pending analysis._
 
 ## Key Observation
-For each value, its complement is already seen.
+_Pending analysis._
 
 ## Why It Works
-Each index is stored once, so lookups are O(1).
+_Pending analysis._
 
 ## Complexity
-Time: O(n)
-Space: O(n)
+Time: _Pending analysis._
+Space: _Pending analysis._
 
 ## Important Theory
-["Hash map", "Complement problem"]
+_Pending analysis._
 
 ## Common Mistakes
-["Off-by-one when checking the complement"]
+_Pending analysis._
 
 ## Edge Cases
-["Empty array", "Duplicate values"]
+_Pending analysis._
 
 ## Revision Questions
-- Why is a hash map needed?
-- What if the array is sorted?
+_Pending analysis._
